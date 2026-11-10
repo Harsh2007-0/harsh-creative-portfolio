@@ -1,17 +1,17 @@
-# Harsh Raj — Creative Portfolio (V3)
+# Harsh Raj — Creative Portfolio (V4)
 
-A responsive cinematic portfolio website with a transparent hero portrait.
+A responsive cinematic portfolio for Harsh Raj, filmmaker and video editor.
 
 ## Files
-- `index.html` — complete responsive website
-- `hero-portrait.png` — transparent PNG used in the hero section
+- `index.html` — complete responsive portfolio website
+- `hero-portrait.png` — transparent portrait used in the hero section
 
-## Deploy / update GitHub Pages
-1. Extract this ZIP.
-2. Open your `harsh-creative-portfolio` GitHub repository.
-3. Choose **Add file → Upload files**.
-4. Upload BOTH `index.html` and `hero-portrait.png` (README optional), replacing the old `index.html`.
-5. Commit changes to the `main` branch.
-6. Open the existing GitHub Pages URL after deployment finishes.
+## V4 updates
+- Larger hero portrait with a soft warm orange glow
+- Deep offset silhouette shadow and subtle rim lighting
+- Desktop pointer parallax with separate movement for portrait and shadow
+- Responsive mobile layout that keeps the portrait visible below the intro text
+- Refined headline sizing and hero spacing
 
-Keep `hero-portrait.png` in the same root folder as `index.html`; the website references it by that exact filename.
+## Publish on GitHub Pages
+Upload/replace `index.html`, `hero-portrait.png`, and `README.md` in the repository root on the `main` branch. Keep the image and HTML in the same folder.
