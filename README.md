@@ -1,23 +1,29 @@
 # Harsh Raj — Creative Portfolio
 
-A responsive personal portfolio website for filmmaker, video editor and creative technologist Harsh Raj.
+A responsive cinematic portfolio website for Harsh Raj, filmmaker, video editor and creative technologist.
 
-## What's included
-- `index.html` — complete portfolio website (HTML, CSS and JavaScript in one file)
-- Responsive layout for desktop and mobile
-- Selected video projects, skills and contact section
+## Files
+- `index.html` — complete website (HTML, CSS and JavaScript)
+
+## Features
+- Responsive desktop and mobile layout
+- Cinematic dark editorial visual system
+- Scroll reveal animations and subtle moving discipline ticker
+- Selected project links, about section, creative approach and contact section
+- Reduced-motion accessibility support
+- No build tools or dependencies required
 
 ## Run locally
-Open `index.html` in any modern browser.
+Open `index.html` in a modern browser.
 
-## Publish with GitHub Pages
-1. Create a public GitHub repository.
-2. Upload `index.html` and `README.md` to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select **main** and **/(root)**, then save.
-
-Your site will be published at `https://YOUR-USERNAME.github.io/REPOSITORY-NAME/`.
+## Deploy with GitHub Pages
+1. Open the repository on GitHub.
+2. Choose **Add file → Upload files**.
+3. Upload the updated `index.html` and this `README.md`, replacing the existing versions.
+4. Commit the changes to the `main` branch.
+5. GitHub Pages will redeploy automatically.
 
 ## Customize
-Update the project titles, descriptions, YouTube links and contact email in `index.html` whenever needed.
+- Update the three YouTube URLs and project descriptions in `index.html`.
+- Add a portrait or showreel only after choosing the exact media you want displayed.
+- Keep project credits and role descriptions accurate.
